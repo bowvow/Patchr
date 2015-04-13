@@ -1,0 +1,13 @@
+java\/awt\/.*
+javax\/swing\/.*
+sun\/awt\/.*
+sun\/swing\/.*
+com\/sun\/.*
+sun\/.*
+java\/lang\/SystemClassLoaderAction.*
+org\/apache\/http\/.*
+org\/json\/.*
+org\/w3c\/.*
+org\/xml\/.*
+org\/xmlpull\/.*
+junit\/.*
